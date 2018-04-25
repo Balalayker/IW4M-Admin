@@ -14,8 +14,10 @@ _______
 1. Распакуйте `IW4MAdmin-<version>.zip`  
 2. Откройте командную строку или терминал в распакованной папке
 3. Введите `dotnet IW4MAdmin.dll` и нажмите *Enter*, или же для _Windows_ создайте *bat*, или *cmd* файл с таким содержимым:
-[`@echo off 
-dotnet IW4MAdmin.dll`]
+
+[`@echo off`]
+[`dotnet IW4MAdmin.dll`]
+
 и запускайте в дальнейшем с него.
 _______
 
