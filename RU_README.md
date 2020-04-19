@@ -443,3 +443,4 @@ var plugin = {
 
 Настройка `ConnectionString` и `DatabaseProvider` свойств в `IW4MAdminSettings.json`  
 позволит **IW4MAdmin** использовать альтернативные методы для хранения баз данных.
+ 
